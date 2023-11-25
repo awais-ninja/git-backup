@@ -1,0 +1,276 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,300;1,400&display=swap"
+    >
+    </mj-font>
+    <mj-font
+      name="Open Sans"
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap"
+    >
+    </mj-font>
+
+    <mj-attributes>
+      <mj-all font-family="Roboto, sans-serif"></mj-all>
+
+      <mj-text font-size="14px" color="black" line-height="26px"></mj-text>
+      <mj-image padding="0px" />
+      <mj-section
+        padding="0px"
+        background-color="white"
+        text-align="center"
+      ></mj-section>
+      <mj-body background-color="#F5F5F5"> </mj-body>
+      <mj-button
+        background-color="#16274d"
+        color="white"
+        font-size="16px"
+        border-radius="8px"
+      />
+      <mj-class
+        name="heading-class"
+        font-size="24px"
+        font-weight="bold"
+        line-height="36px"
+        font-family="Open Sans"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <!-- Logo-Section -->
+      <mj-column>
+        <mj-image
+          width="180px"
+          padding="20px"
+          src="https://brainloggers.co.uk/images/logo.svg"
+          alt="brainloggers Logo"
+          href="https://brainloggers.co.uk/"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <!-- Header-Section -->
+      <mj-column>
+        <mj-text mj-class="heading-class" align="center">
+          Creating Success Stories
+        </mj-text>
+        <mj-text
+          font-size="18px"
+          line-height="0px"
+          color="#16274d"
+          align="center"
+        >
+          since 2014
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px">
+      <mj-column>
+        <mj-text align="justify">
+          Providing Website and Graphic Design services since past 9 years in
+          the United Kingdom. We build not only just websites but create a
+          comprehensive brand recognition for our clients.
+        </mj-text>
+      </mj-column>
+      <mj-column width="43.3%">
+        <mj-image
+          href="https://brainloggers.co.uk/#services"
+          src="https://brainloggers.co.uk/images/home/slider/2045.svg"
+          alt="A picture of mobile and boy and girl they all are doing something"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+      <mj-column padding-top="20px">
+        <mj-button href="https://brainloggers.co.uk/#services" padding="0px">
+          Explore Our Services
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="/images/bitmap.png" padding-bottom="10px">
+      <!-- Middle-Section -->
+      <mj-column>
+        <mj-text
+          mj-class="heading-class"
+          align="center"
+          line-height="36px"
+          padding-top="20px"
+        >
+          Want to get things actually done? <br />
+        </mj-text>
+        <mj-text align="center" padding-top="0px" padding-bottom="0"
+          >Just Consult with Us & Let's see how cool your business is. <br />
+          Have a look to
+        </mj-text>
+        <mj-text
+          mj-class="heading-class"
+          align="center"
+          line-height="20px"
+          color="#16274d"
+        >
+          Our Services <br />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px">
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/web-design-services.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d">Web Design</span
+          ><br /><br />We design and deliver websites that deliver outstanding
+          experiences. Our organically created static websites are best in class
+          and search optimized.</mj-text
+        >
+      </mj-column>
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/graphic-design-services.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d">Graphic Design</span
+          ><br /><br />We craft and develop unique, powerful brands that engage
+          and compel your target market via a range of print design, degital
+          media and brand recognition.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/it-and-security.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d">IT & Security</span
+          ><br /><br />We provide competetive, professional and blazing fast
+          guaranteed IT services. Our client confidentiality clause helps us
+          keep our client's data secure.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px">
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/digital-marketing.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d">Digital Marketing</span
+          ><br /><br />Be it a single time thing or to run a proper Advertising
+          Campaign accross all huge platforms such as Facebook, Google, Reddit
+          etc. we know the techniques most effective and designs.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/printing-services.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d">Printing Services</span
+          ><br /><br />Having our own design team has its own perks. For one
+          thing, we know the exact values and sizes for various Paper printing
+          services. From Letterheads to Pamphlets, we print everything.
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%">
+        <mj-image
+          src="https://brainloggers.co.uk/images/home/hardware-recommendation.svg"
+          alt=""
+          width="50px"
+        ></mj-image>
+        <mj-text
+          align="center"
+          color="black"
+          line-height="16px"
+          font-size="12px"
+          padding-bottom="30px"
+          ><span style="font-size: 16px; color: #16274d"
+            >Hardware Recommendation</span
+          ><br /><br />We build High End Desktops and Servers for our clients.
+          From that experience, we usually know what's the most cost efficient
+          equipment that should be bought for an office.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="20px" />
+    <mj-section>
+      <mj-column
+        background-color="#fff"
+        css-class="body-section"
+        border-bottom="2px solid #9b0000"
+        padding="0 15px"
+      >
+        <mj-text align="center">
+          Copyright © 2023 Brainloggers , All rights reserved. You are receiving
+          this email because you opted in via client sign-on
+        </mj-text>
+        <mj-text align="center">
+          <p>
+            <b>Our mailing address is</b><br />Brainloggers<br />
+            Phone: <a tel="020 3995 4105">020 3995 4105</a><br /><a
+              href="https://brainloggers.co.uk/"
+              >www.brainloggers.co.uk</a
+            >
+            <br />2-Sanders Parade, Greyhound Lane, Streatham London, London
+            SW16 5NL<br />United Kingdom
+          </p>
+        </mj-text>
+        <mj-social font-size="12px" icon-size="20px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/brainloggersltd"
+          >
+            Facebook
+          </mj-social-element>
+          <mj-social-element
+            name="google"
+            href="https://www.facebook.com/brainloggersltd"
+          >
+            Google
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="https://www.facebook.com/brainloggersltd"
+          >
+            Twitter
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
